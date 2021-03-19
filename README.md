@@ -19,9 +19,11 @@ For more detail, please visit:
 > [How to integrate Angular with Node.js Restful Services](https://bezkoder.com/integrate-angular-10-node-js/)
 
 More Practice:
-> [Angular 10 Pagination example | ngx-pagination](https://github.com/bezkoder/angular-10-pagination-example)
+> [Angular 11 Pagination example using ngx-pagination](https://bezkoder.com/angular-11-pagination-ngx/)
 
-> [Angular 10 File Upload example with progress bar](https://bezkoder.com/angular-10-file-upload/)
+> [Angular 11 File Upload example with progress bar](https://bezkoder.com/angular-11-file-upload/)
+
+> [Angular 11 JWT Authentication & Authorization example with Web Api](https://github.com/bezkoder/angular-11-jwt-authentication)
 
 > [Node.js Express File Upload Rest API example](https://bezkoder.com/node-js-express-file-upload/)
 
@@ -48,6 +50,8 @@ Serverless with Firebase:
 > [Angular 11 Firebase CRUD Realtime DB | AngularFireDatabase](https://bezkoder.com/angular-11-firebase-crud/)
 
 > [Angular 11 Firestore CRUD | AngularFireStore](https://bezkoder.com/angular-11-firestore-crud-angularfirestore/)
+
+> [Angular 11 Upload File to Firebase Storage example](https://bezkoder.com/angular-11-file-upload-firebase-storage/)
 
 ## Project setup
 

@@ -4,9 +4,11 @@ For instruction, please visit:
 > [Angular 11 CRUD Application example with Web API](https://bezkoder.com/angular-11-crud-app/)
 
 More practice:
-> [Angular 10 Pagination example | ngx-pagination](https://github.com/bezkoder/angular-10-pagination-example)
+> [Angular 11 Pagination example using ngx-pagination](https://bezkoder.com/angular-11-pagination-ngx/)
 
-> [Angular 10 File Upload example with progress bar](https://bezkoder.com/angular-10-file-upload/)
+> [Angular 11 File Upload example with progress bar](https://bezkoder.com/angular-11-file-upload/)
+
+> [Angular 11 JWT Authentication & Authorization example with Web Api](https://github.com/bezkoder/angular-11-jwt-authentication)
 
 Fullstack with Node.js Express:
 > [Angular 11 + Node.js Express + MySQL](https://bezkoder.com/angular-11-node-js-express-mysql/)
@@ -33,6 +35,8 @@ Serverless with Firebase:
 > [Angular 11 Firebase CRUD Realtime DB | AngularFireDatabase](https://bezkoder.com/angular-11-firebase-crud/)
 
 > [Angular 11 Firestore CRUD | AngularFireStore](https://bezkoder.com/angular-11-firestore-crud-angularfirestore/)
+
+> [Angular 11 Upload File to Firebase Storage example](https://bezkoder.com/angular-11-file-upload-firebase-storage/)
 
 Integration (run back-end & front-end on same server/port)
 > [How to Integrate Angular 10 with Node.js Restful Services](https://bezkoder.com/integrate-angular-10-node-js/)
